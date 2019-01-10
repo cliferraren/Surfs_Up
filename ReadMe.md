@@ -10,11 +10,9 @@ We decided to create a climate analysis and app for our favorite vacation destin
 ## First - We created a notebook dedicated for Database Engineering
 
 We use SQLAlchemy to model our table schemas and create a sqlite database for your tables. We weill be needing one table for measurements and one for stations.
-- Jupyter Notebook called database_engineering.ipynb and use this to complete all of your Database Engineering work.
 - Use Pandas to read your cleaned measurements and stations CSV data.
 - Use the engine and connection string to create a database called hawaii.sqlite.
 - Use declarative_base and create ORM classes for each table.
-<img src='images/precip.png'/>
 
 ## Secondly - we created a notebook dedicated for Climate Analysis and Exploration
 
